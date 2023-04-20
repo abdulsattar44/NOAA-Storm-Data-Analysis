@@ -1,7 +1,7 @@
 # NOAA-Storm-Data-Analysis
 Reproducible Research: Course Project 2
 
-**Abdul Sattar **
+**Abdul Sattar**
 
 April 18, 2023
 
