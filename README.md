@@ -9,7 +9,7 @@ Peer-graded Assignment: Course Project 2
 
 **Analysis report available on RPubs**
 
-* <a href="https://rpubs.com/sattar44/NOAA_Storm_Data_Analysi</a>
+* <a href="https://rpubs.com/sattar44/NOAA_Storm_Data_Analysis"</a>
 
 
 ## Introduction
